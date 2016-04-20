@@ -6,11 +6,11 @@ A simple challenge to manipulate basic HTML tags and create a profile page with 
 
 Build a simple HTML page with the following elements (use the right HTML tags):
 
-- an image of yourself
-- a header and sub-header with your name and position
-- a description of yourself
-- a list of your social links
-- a table of your favorite movies, sport teams, recipes, etc... depending on your hobbies.
+- an image of your class-mate
+- a header and sub-header with your class-mate's name and position
+- a description of your class-mate
+- a list of your class-mate's social links
+- a table of your class-mate's favorite movies, sport teams, recipes, etc... depending on their hobbies.
 
 A picture is worth a thousand words, [here is what you should build in this challenge](http://lewagon.github.io/html-css-challenges/01-profile-content/)
 
